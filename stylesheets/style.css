@@ -50,8 +50,10 @@
     text-transform: uppercase;
 }
 
-p, .text{
+span, .text{
     font-family: "Roboto Light", serif;
+    display: block;
+    margin: 1em 0;
 }
 
 .bold{
